@@ -1,0 +1,15 @@
+/Users/tagirner/Projects/пианино/пианино/bin/Debug/net7.0/пианино
+/Users/tagirner/Projects/пианино/пианино/bin/Debug/net7.0/пианино.deps.json
+/Users/tagirner/Projects/пианино/пианино/bin/Debug/net7.0/пианино.runtimeconfig.json
+/Users/tagirner/Projects/пианино/пианино/bin/Debug/net7.0/пианино.dll
+/Users/tagirner/Projects/пианино/пианино/bin/Debug/net7.0/пианино.pdb
+/Users/tagirner/Projects/пианино/пианино/obj/Debug/net7.0/пианино.csproj.AssemblyReference.cache
+/Users/tagirner/Projects/пианино/пианино/obj/Debug/net7.0/пианино.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tagirner/Projects/пианино/пианино/obj/Debug/net7.0/пианино.AssemblyInfoInputs.cache
+/Users/tagirner/Projects/пианино/пианино/obj/Debug/net7.0/пианино.AssemblyInfo.cs
+/Users/tagirner/Projects/пианино/пианино/obj/Debug/net7.0/пианино.csproj.CoreCompileInputs.cache
+/Users/tagirner/Projects/пианино/пианино/obj/Debug/net7.0/пианино.dll
+/Users/tagirner/Projects/пианино/пианино/obj/Debug/net7.0/refint/пианино.dll
+/Users/tagirner/Projects/пианино/пианино/obj/Debug/net7.0/пианино.pdb
+/Users/tagirner/Projects/пианино/пианино/obj/Debug/net7.0/пианино.genruntimeconfig.cache
+/Users/tagirner/Projects/пианино/пианино/obj/Debug/net7.0/ref/пианино.dll
